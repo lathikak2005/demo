@@ -1,0 +1,24 @@
+.first{
+    background-color:rgb(170, 170, 175);
+    color: white;
+   
+   
+}
+
+li{
+    list-style: none;
+
+}
+
+.first{
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+ul{
+    display:flex;
+    gap:10px;
+    justify-content:right;
+    padding-right: 10%;
+}
